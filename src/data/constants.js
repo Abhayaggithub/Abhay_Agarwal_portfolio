@@ -274,6 +274,26 @@ export const Bio = {
       webapp: "",
     },
     {
+      id: 2,
+      title: "Real Estate Application",
+      date: "",
+      description:
+        "Explore the world of real estate with our cutting-edge MERN stack project. Seamlessly integrating MongoDB, Express.js, React.js, and Node.js, our platform revolutionizes property search, listing, and management. From intuitive user interfaces to robust backend functionalities, our project offers a comprehensive solution for buyers, sellers, and agents alike. Experience streamlined property discovery, effortless transactions, and efficient communication channels, all within a secure and user-friendly environment. Embark on your real estate journey with confidence, backed by the power of our innovative MERN stack project.",
+      image:
+        "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5e593fb060cf8720bc75e8e1_Real-Estate-1.jpg",
+      tags: [
+        "React Js",
+        "MongoDB",
+        "Node Js",
+        "Express Js",
+        "HTML",
+        "JavaScript",
+      ],
+      category: "web app",
+      github: "https://github.com/Abhayaggithub/Real-Estate-",
+      webapp: "https://real-estate-buy.vercel.app/",
+    },
+    {
       id: 9,
       title: "ChatGPT Clone",
       date: "",
