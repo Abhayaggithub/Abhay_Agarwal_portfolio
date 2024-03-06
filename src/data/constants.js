@@ -294,13 +294,34 @@ export const Bio = {
       webapp: "https://real-estate-buy.vercel.app/",
     },
     {
+      id: 3,
+      title: "Event Planner",
+      date: "",
+      description:
+        "Built with MongoDB, Express.js, React, and Node.js, this project showcases my proficiency in full-stack development, real-time updates, and user-friendly interfaces. Experience firsthand how this project streamlines the event planning process, ensuring efficiency and satisfaction for both planners and attendees.",
+      image:
+        "https://event-planner-alpha.vercel.app/restaurant.jpg",
+      tags: [
+        "React Js",
+        "MongoDB",
+        "Node Js",
+        "Express Js",
+        "HTML",
+        "JavaScript",
+        
+      ],
+      category: "web app",
+      github: "https://github.com/Abhayaggithub/Event-Planner",
+      webapp: "https://event-planner-alpha.vercel.app/",
+    },
+    {
       id: 9,
       title: "ChatGPT Clone",
       date: "",
       description:
         "I crafted a sleek and user-centric frontend with React.js to elevate user engagement and streamline interaction. Seamlessly integrating the OpenAI API, the application now generates intelligent and context-aware outputs, fostering a natural and engaging conversation flow for an enhanced user experience.",
       image:
-        "https://th.bing.com/th/id/OIP.9BIkGh33X9J-PubLuk0qwQHaFj?rs=1&pid=ImgDetMain",
+        "https://freelogopng.com/images/all_img/1681038628chatgpt-icon-logo.png",
       tags: [
         "React Js",
         "JavaScript",
